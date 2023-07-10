@@ -1,9 +1,12 @@
 package com.lOnlyGames.backend.model;
 
+
 import java.sql.Timestamp;
 import java.util.Set;
 
+
 import javax.persistence.*;
+
 
 @Entity
 public class Availability {
